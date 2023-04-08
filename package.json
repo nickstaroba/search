@@ -32,7 +32,8 @@
     "typescript": "5.0.3",
     "vite": "4.2.1",
     "vite-plugin-svgr": "2.4.0",
-    "vite-tsconfig-paths": "4.0.8"
+    "vite-tsconfig-paths": "4.0.8",
+    "wouter": "2.10.0"
   },
   "devDependencies": {
     "@eterna/commitlint-config": "1.2.0",
