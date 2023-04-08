@@ -2,20 +2,24 @@ import "./index.css";
 
 import CssBaseline from "@mui/material/CssBaseline";
 import { ThemeProvider } from "@mui/material/styles";
-import React from "react";
-import ReactDOM from "react-dom/client";
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
 import { Router } from "wouter";
 
-import { App } from "./App";
+import { App } from "./components/App";
 import theme from "./theme";
 
-ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <React.StrictMode>
+const rootElement = document.getElementById("root") as HTMLElement;
+
+const root = createRoot(rootElement);
+
+root.render(
+  <StrictMode>
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Router base={"/search"}>
         <App />
       </Router>
     </ThemeProvider>
-  </React.StrictMode>
+  </StrictMode>
 );

@@ -8,7 +8,7 @@ function generateMockData(length) {
     id: faker.datatype.uuid(),
     category: faker.commerce.department(),
     description: faker.commerce.productDescription(),
-    image: faker.image.city(100, 150),
+    image: faker.image.city(560, 280),
     name: faker.commerce.productName(),
     price: faker.commerce.price(),
     tags: faker.helpers.uniqueArray(faker.color.human, 3),

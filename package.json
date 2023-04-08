@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
-    "dev::api": "json-server --watch ./mocks/mock-data.json --port 3001",
+    "dev::api": "json-server --watch ./mocks/mock-data.json --port 3001 --delay 500",
     "dev::generate-mock-data": "node mocks/generateMockData.cjs",
     "lint": "npm run lint::compile && npm run lint::prettier && npm run lint::eslint && npm run lint::stylelint",
     "lint-staged": "npm run lint::compile && lint-staged",

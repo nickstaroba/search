@@ -1,184 +1,184 @@
 {
   "products": [
     {
-      "id": "b33830df-f759-48a0-9d65-b7a5e5190784",
-      "category": "Toys",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Luxurious Plastic Pants",
-      "price": "752.00",
-      "tags": ["violet", "ivory", "fuchsia"]
-    },
-    {
-      "id": "39cb7013-5a5b-4be9-817a-5b644fe93220",
-      "category": "Sports",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Electronic Plastic Bike",
-      "price": "135.00",
-      "tags": ["azure", "plum", "magenta"]
-    },
-    {
-      "id": "b9b5d2c4-f154-449c-adf3-36966602b981",
-      "category": "Games",
-      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Gorgeous Cotton Bacon",
-      "price": "58.00",
-      "tags": ["teal", "ivory", "turquoise"]
-    },
-    {
-      "id": "05209801-7483-45bd-ab8d-bdd111f8004a",
-      "category": "Kids",
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Unbranded Soft Shirt",
-      "price": "798.00",
-      "tags": ["yellow", "tan", "indigo"]
-    },
-    {
-      "id": "06d5ebfd-4fd8-4212-90b7-70ef7e4a15e7",
-      "category": "Toys",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Gorgeous Granite Hat",
-      "price": "265.00",
-      "tags": ["cyan", "purple", "green"]
-    },
-    {
-      "id": "078382e8-c4d6-43ec-af58-a30e48d74718",
-      "category": "Automotive",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Oriental Cotton Car",
-      "price": "115.00",
-      "tags": ["lavender", "tan", "salmon"]
-    },
-    {
-      "id": "2d0d3f03-d489-42af-8172-ad2c1f617c85",
-      "category": "Books",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Ergonomic Cotton Pizza",
-      "price": "730.00",
-      "tags": ["violet", "silver", "gold"]
-    },
-    {
-      "id": "915e7c1c-c519-4b21-876a-d65356f25768",
+      "id": "7ac13c53-ec9f-4948-9ac7-d7308b3c1327",
       "category": "Baby",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Refined Granite Soap",
-      "price": "959.00",
-      "tags": ["teal", "blue", "plum"]
-    },
-    {
-      "id": "6a5d1434-3a52-4dc2-803e-8b62cd032f6b",
-      "category": "Automotive",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Rustic Wooden Table",
-      "price": "282.00",
-      "tags": ["white", "orange", "gold"]
-    },
-    {
-      "id": "ac386f03-8ff3-417e-90d5-7db604a78400",
-      "category": "Home",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Incredible Metal Computer",
-      "price": "632.00",
-      "tags": ["silver", "mint green", "orange"]
-    },
-    {
-      "id": "32cfe6ad-5806-4275-a5ff-cb7b945c3785",
-      "category": "Books",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Bespoke Cotton Ball",
-      "price": "738.00",
-      "tags": ["purple", "violet", "silver"]
-    },
-    {
-      "id": "55d2d411-7d79-4cc1-8f65-26d97f3778c1",
-      "category": "Toys",
       "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Practical Cotton Salad",
-      "price": "912.00",
-      "tags": ["blue", "turquoise", "violet"]
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Handmade Wooden Salad",
+      "price": "63.00",
+      "tags": ["lime", "violet", "magenta"]
     },
     {
-      "id": "0518217a-bdda-42dd-b1ad-f4af43f2be85",
-      "category": "Home",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Generic Rubber Soap",
-      "price": "155.00",
-      "tags": ["green", "ivory", "gold"]
-    },
-    {
-      "id": "11b38b2f-f808-45b1-966f-a7c417ed6cf2",
-      "category": "Music",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Handcrafted Wooden Keyboard",
-      "price": "23.00",
-      "tags": ["sky blue", "ivory", "plum"]
-    },
-    {
-      "id": "29c8250e-1d7c-44a3-8ebe-7299fbcaae31",
-      "category": "Shoes",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Generic Cotton Gloves",
-      "price": "976.00",
-      "tags": ["violet", "orange", "silver"]
-    },
-    {
-      "id": "952dd37d-8fb2-4b5b-ae45-410449e9f117",
-      "category": "Outdoors",
-      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Electronic Frozen Towels",
-      "price": "538.00",
-      "tags": ["olive", "orange", "indigo"]
-    },
-    {
-      "id": "f39cd011-ef8f-40b6-bcb8-3323a88258a7",
-      "category": "Tools",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Gorgeous Metal Shirt",
-      "price": "439.00",
-      "tags": ["tan", "silver", "sky blue"]
-    },
-    {
-      "id": "054f704f-2b15-4666-86f1-aa329ce23c7e",
-      "category": "Shoes",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Sleek Rubber Table",
-      "price": "189.00",
-      "tags": ["turquoise", "indigo", "red"]
-    },
-    {
-      "id": "b296bc85-1ee4-431b-a31d-bf44f5b70089",
-      "category": "Jewelery",
+      "id": "f33a049f-e24a-4d4a-a513-167debb9156e",
+      "category": "Games",
       "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Modern Granite Ball",
-      "price": "824.00",
-      "tags": ["salmon", "yellow", "lavender"]
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Intelligent Fresh Shirt",
+      "price": "615.00",
+      "tags": ["purple", "black", "fuchsia"]
     },
     {
-      "id": "479d6f33-e8bf-4a68-84ff-392405127471",
-      "category": "Sports",
+      "id": "70ada838-f510-4413-b464-7230df9dd1e7",
+      "category": "Industrial",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Recycled Soft Shirt",
+      "price": "529.00",
+      "tags": ["lime", "black", "maroon"]
+    },
+    {
+      "id": "fb168c15-cfb6-46e0-8e6f-a56b5799c98b",
+      "category": "Outdoors",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Generic Rubber Tuna",
+      "price": "151.00",
+      "tags": ["orange", "red", "blue"]
+    },
+    {
+      "id": "abae5d42-52ba-450a-a2ca-5881d925b144",
+      "category": "Grocery",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Ergonomic Bronze Table",
+      "price": "305.00",
+      "tags": ["red", "teal", "violet"]
+    },
+    {
+      "id": "0f295307-e361-47fc-b080-7ec82a788351",
+      "category": "Electronics",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Handmade Plastic Towels",
+      "price": "339.00",
+      "tags": ["black", "fuchsia", "indigo"]
+    },
+    {
+      "id": "ed790069-3c22-453a-a31a-07afa2cd923a",
+      "category": "Games",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Generic Concrete Table",
+      "price": "17.00",
+      "tags": ["orange", "silver", "lime"]
+    },
+    {
+      "id": "15bc9e72-47ac-4f4c-8732-0a32468355c1",
+      "category": "Kids",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Fantastic Cotton Hat",
+      "price": "725.00",
+      "tags": ["mint green", "blue", "yellow"]
+    },
+    {
+      "id": "7dc69ef4-8cb3-4198-b029-cd9d4c329c0f",
+      "category": "Grocery",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Rustic Concrete Car",
+      "price": "900.00",
+      "tags": ["blue", "pink", "violet"]
+    },
+    {
+      "id": "0207cd40-da31-400a-b96f-fe76fc0b3905",
+      "category": "Kids",
       "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "image": "https://loremflickr.com/100/150/city",
-      "name": "Fantastic Soft Hat",
-      "price": "788.00",
-      "tags": ["indigo", "fuchsia", "red"]
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Ergonomic Plastic Hat",
+      "price": "772.00",
+      "tags": ["olive", "black", "purple"]
+    },
+    {
+      "id": "e92e1be6-4c24-4e02-9ba5-f0977741167d",
+      "category": "Health",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Unbranded Bronze Sausages",
+      "price": "325.00",
+      "tags": ["fuchsia", "orange", "teal"]
+    },
+    {
+      "id": "d22e445c-b130-4ceb-b8c9-80776cd29d35",
+      "category": "Health",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Elegant Bronze Keyboard",
+      "price": "678.00",
+      "tags": ["orange", "black", "magenta"]
+    },
+    {
+      "id": "b980dcbe-e71b-4607-8904-dced6b284cf8",
+      "category": "Beauty",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Small Plastic Pizza",
+      "price": "991.00",
+      "tags": ["red", "orchid", "white"]
+    },
+    {
+      "id": "e4ed69dd-c4ef-4629-ae96-954a12207fa6",
+      "category": "Kids",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Unbranded Soft Shoes",
+      "price": "606.00",
+      "tags": ["lime", "green", "salmon"]
+    },
+    {
+      "id": "321094d2-cf00-4ee6-9254-7b289fbd8ae6",
+      "category": "Garden",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Electronic Concrete Keyboard",
+      "price": "849.00",
+      "tags": ["white", "yellow", "magenta"]
+    },
+    {
+      "id": "da7c6d36-8861-4147-85fc-ce830e8b8438",
+      "category": "Kids",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Awesome Frozen Chair",
+      "price": "410.00",
+      "tags": ["fuchsia", "mint green", "yellow"]
+    },
+    {
+      "id": "91475d70-b1da-4a0a-b54c-7611c9b6109e",
+      "category": "Baby",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Luxurious Granite Pants",
+      "price": "912.00",
+      "tags": ["azure", "maroon", "black"]
+    },
+    {
+      "id": "1f160722-17d1-42aa-803e-3c103caaefb7",
+      "category": "Grocery",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Luxurious Bronze Soap",
+      "price": "192.00",
+      "tags": ["turquoise", "silver", "ivory"]
+    },
+    {
+      "id": "28403624-316e-4e0e-a9ed-ac00b44cb40b",
+      "category": "Grocery",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Refined Fresh Pizza",
+      "price": "320.00",
+      "tags": ["violet", "ivory", "purple"]
+    },
+    {
+      "id": "83e74f49-ebd9-4aee-b29f-5c1e7c5245e8",
+      "category": "Beauty",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Refined Frozen Soap",
+      "price": "360.00",
+      "tags": ["yellow", "mint green", "cyan"]
     }
   ]
 }
