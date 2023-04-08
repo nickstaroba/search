@@ -9,6 +9,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
+    "dev::api": "json-server --watch ./mocks/mock-data.json --port 3001",
+    "dev::generate-mock-data": "node mocks/generateMockData.cjs",
     "lint": "npm run lint::compile && npm run lint::prettier && npm run lint::eslint && npm run lint::stylelint",
     "lint-staged": "npm run lint::compile && lint-staged",
     "lint::compile": "tsc -p . --noEmit --noErrorTruncation --pretty",
@@ -49,6 +51,7 @@
     "@faker-js/faker": "7.6.0",
     "@types/react": "18.0.33",
     "@types/react-dom": "18.0.11",
-    "husky": "8.0.3"
+    "husky": "8.0.3",
+    "json-server": "0.17.3"
   }
 }

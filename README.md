@@ -22,6 +22,14 @@ cp .env.example .env.local
 
 ### Dev Servers
 
+Run the mock API:
+
+```sh
+npm run dev::api
+```
+
+Run the UI:
+
 ```sh
 npm run dev
 ```
@@ -29,6 +37,12 @@ npm run dev
 ## Publishing
 
 Go to Github Actions > Publish to Github Pages > Run Workflow on `main`
+
+## Live Mock API
+
+This Github Page uses a [mock API](https://github.com/nickstaroba/mock-data)
+implemented on [Google App Engine](https://console.cloud.google.com/) with
+[json-server](https://github.com/typicode/json-server).
 
 ## Initial Repo Setup
 
