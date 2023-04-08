@@ -5,3 +5,9 @@
 ```sh
 npm install
 ```
+
+## Run Locally
+
+```sh
+npm run dev
+```
