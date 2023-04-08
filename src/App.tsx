@@ -1,3 +1,5 @@
+import { Typography } from "@mui/material";
+
 export function App() {
-  return <h1>Search</h1>;
+  return <Typography variant={"h1"}>Search</Typography>;
 }
